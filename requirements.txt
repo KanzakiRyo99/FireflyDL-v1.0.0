@@ -1,0 +1,5 @@
+# FireflyDL 运行依赖
+# Python 3.10+（tkinter 随 Windows 官方 Python 一起安装）
+yt-dlp>=2025.1.1
+Pillow>=10.0.0
+mutagen>=1.46.0
